@@ -112,14 +112,14 @@ a:hover{
 
 .top-cloud{
   position: absolute;
-  right: 250px;
-  top: 40px;
+  right: 15.625rem;
+  top: 2.5rem;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 18.75rem;
+  bottom: 18.75rem;
 }
 
 .btn {
