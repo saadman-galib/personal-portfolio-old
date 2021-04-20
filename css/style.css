@@ -112,14 +112,14 @@ a:hover{
 
 .top-cloud{
   position: absolute;
-  right: 15.625rem;
-  top: 2.5rem;
+  right: 300px;
+  top: 40px;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 18.75rem;
-  bottom: 18.75rem;
+  left: 250px;
+  bottom: 300px;
 }
 
 /* .mountain-img{
